@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -sI http://localhost:5173/logo.jpg)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(node *)"
+    ]
+  }
+}
